@@ -36,7 +36,7 @@ body a{
 	font-family:微软雅黑;
 	font-weight: 400;
 	text-decoration: none;
-	padding: 0px 19px 0px 19px;
+	padding: 0px 20px 0px 20px;
 	display: block;
 	background: ##f2f2f2;
 	border-radius: 0.3em;
@@ -62,10 +62,10 @@ body a{
 	margin-top: 7px;
 }
 .quote a {
-	font-size: 21px;
+	font-size:20px;
 	font-weight: 400;
 	background: #171717;
-	letter-spacing: 2px;
+
 	color: #cbb814;
 	padding: 8px 33px;
 	border-radius: 0.3em;
